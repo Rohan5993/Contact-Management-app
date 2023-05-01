@@ -1,5 +1,4 @@
-# Contact-Management-app
-contact management app with Charts and Maps using ReactJS, TypeScript, TailwindCSS, React Router v6 and React Query aka TanstackQuery.
+
 # Contact Management App with Charts and Maps
 This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
 
